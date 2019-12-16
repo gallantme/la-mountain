@@ -99,7 +99,7 @@ nav div.nav-links a {
 }
 
 .history-carousel {
-  background: rgba(0, 0, 255, 0.7);
+  background: rgba(15, 15, 35, 0.9);
   padding: 50px 20%;
   position: absolute;
   bottom: 0;
@@ -126,7 +126,7 @@ nav div.nav-links a {
 }
 
 .team-section-nav {
-  background: rgba(0, 0, 255, 0.7);
+  background: rgba(15, 15, 35, 0.8);
   padding: 0 20%;
   color: rgba(0, 0, 0, 0.6);
 }
@@ -169,7 +169,7 @@ nav div.nav-links a {
 
 footer {
   position: initial;
-  background: rgba(0, 0, 255, 0.7);
+  background: rgba(15, 15, 35, 0.7);
   color: #fff;
   opacity: 0.3;
   padding: 0 20%;
